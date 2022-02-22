@@ -1,17 +1,17 @@
-# TWRP development for T11x
+# TWRP development for T21x
 
 ## Official Builds
 
 TWRP is currently official for this device!
-You can find it [here](https://twrp.me/samsung/goya.html "TWRP for Samsung Galaxy Tab 3 Lite 7.0 (Marvell PXA986 Edition)").
+You can find it [here](https://twrp.me/samsung/samsunggalaxytab370.html "TWRP for Samsung Galaxy Tab 3 7.0").
 
 ## Repositories
 
 These repositories are for testing and nightly development ONLY.
-Please use the [TeamWin fork](https://github.com/TeamWin/android_device_samsung_goya "TeamWin/android_device_samsung_goya") for building TWRP.
+Please use the [TeamWin fork](https://github.com/TeamWin/android_device_samsung_lt02 "TeamWin/android_device_samsung_lt02") for building TWRP.
 
 ## Discord Server
 
-You can join our Discord server for other T11x-related development and updates!
+You can join our Discord server for other T21x-related development and updates!
 
-[Discord Invite](https://discord.gg/XQc6fVcARX "T110 Android Development")
+[Discord Invite](https://discord.gg/TJttqr8bhj "T210 Android Development")
